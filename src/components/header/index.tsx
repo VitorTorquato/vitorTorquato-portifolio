@@ -21,9 +21,9 @@ export function Header(){
                    
                     <nav>
                         <ul className="hidden md:flex gap-7 items-center text-slate-100 text-lg font-medium">
-                            <li className="hover:scale-105 transition-all duration-75 cursor-pointer"><>About</></li>
-                            <li className="hover:scale-105 transition-all duration-75 cursor-pointer">Skills</li>
-                            <li className="hover:scale-105 transition-all duration-75 cursor-pointer"><>Projects</></li>
+                            <li className="hover:scale-105 transition-all duration-75 cursor-pointer"> <a href="#aboutme">About</a> </li>
+                            <li className="hover:scale-105 transition-all duration-75 cursor-pointer"><a href="#skills">Skills</a></li>
+                            <li className="hover:scale-105 transition-all duration-75 cursor-pointer"><a href="#projects">Projects</a></li>
                         </ul>
                     </nav>
 

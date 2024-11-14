@@ -17,15 +17,15 @@ export function ProjectCard(project:CardsProps){
    
        >
             <h2 className="w-full text-md md:text-lg text-slate-100">{project.title}</h2>
-            <div  className='max-w-72 max-h-72 overflow-hidden flex items-center justify-center mx-auto'>
-                <div className='flex items-center justify-center'>
+            <div  className='h-72 overflow-hidden flex items-center justify-center mx-auto'>
+                <div className='h-full overflow-hidden flex items-center justify-center'>
                     <img 
-                    className="w-full object-cover"
+                    className=""
                     src={project.cover} alt={project.title} />
                 </div>
             </div>
-            <p className='text-slate-100 font-medium'>{project.description}</p>
-            <span className='text-slate-100 font-medium'>Tools: {project.tools}</span>
+            <p className='h-20 text-slate-100 font-medium'>{project.description}</p>
+            <span className='h-12 mt-1 text-slate-100 font-medium'>Tools: {project.tools}</span>
 
 
             <div className='w-full flex items-center justify-between gap-3'>
