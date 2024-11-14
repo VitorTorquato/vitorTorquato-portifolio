@@ -3,7 +3,7 @@
         {
             "id":1,
             "title":"Crypto Currency",
-            "cover": "/public/projects-images/devcripto.png",
+            "cover": "/src/assets/projects-images/devcripto.png",
             "description":"The app allows you to check the profts and losses of crypto coins in real time and, see the details of each crypt and also look for a especific coin",
             "tools":"React/TypeScript/CSS modules",
             "urlDeploy":"https://findyourcripto.netlify.app/" ,
@@ -12,7 +12,7 @@
         {
             "id":2,
             "title":"Pet Care ",
-            "cover": "/public/projects-images/petCare.png",
+            "cover": "/src/assets/projects-images/petCare.png",
             "description":"The app simulates a shopping cart where users can add, remove and navigate to the cart to finish their orders",
             "tools":"React/TypeScript/Tailwind CSS",
             "urlDeploy":"https://pet-care-theta.vercel.app/petCare.png" ,
@@ -21,7 +21,7 @@
         {
             "id":3,
             "title":"Food Explorer ",
-            "cover": "/public/projects-images/restaurantMenu.png",
+            "cover": "/src/assets/projects-images/restaurantMenu.png",
             "description":"Is an application for managing and ordering dishes in a restaurant. The platform has two types of users: the Administrator and the Regular User.",
             "tools":"React/styledComponents/Node.js/express",
             "urlDeploy":"https://foodmenuexplorer.netlify.app/" ,
@@ -30,7 +30,7 @@
         {
             "id":4,
             "title":"Rocket Movies",
-            "cover": "/public/projects-images/moviesIMG.png",
+            "cover": "/src/assets/projects-images/moviesIMG.png",
             "description":"This application lets you create an account to add your favorite movies, rate them, and update your profile whenever you want.",
             "tools":"React/styledComponents/Node.js/express",
             "urlDeploy":"https://moviefavs.netlify.app/" ,
