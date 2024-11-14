@@ -1,0 +1,40 @@
+{
+    "projects": [
+        {
+            "id":1,
+            "title":"Crypto Currency",
+            "cover": "/public/projects-images/devcripto.png",
+            "description":"The app allows you to check the profts and losses of crypto coins in real time and, see the details of each crypt and also look for a especific coin",
+            "tools":"React/TypeScript/CSS modules",
+            "urlDeploy":"https://findyourcripto.netlify.app/" ,
+            "urlCode": "https://github.com/VitorTorquato/cripto-Currency"
+        },
+        {
+            "id":2,
+            "title":"Pet Care ",
+            "cover": "/public/projects-images/devcripto.png",
+            "description":"The app allows you to check the profts and losses of crypto coins in real time and, see the details of each crypt and also look for a especific coin",
+            "tools":"React/TypeScript/CSS modules",
+            "urlDeploy":"https://findyourcripto.netlify.app/" ,
+            "urlCode": "https://github.com/VitorTorquato/cripto-Currency"
+        },
+        {
+            "id":2,
+            "title":"Pet Care ",
+            "cover": "/public/projects-images/devcripto.png",
+            "description":"The app allows you to check the profts and losses of crypto coins in real time and, see the details of each crypt and also look for a especific coin",
+            "tools":"React/TypeScript/CSS modules",
+            "urlDeploy":"https://findyourcripto.netlify.app/" ,
+            "urlCode": "https://github.com/VitorTorquato/cripto-Currency"
+        },
+        {
+            "id":2,
+            "title":"Pet Care ",
+            "cover": "/public/projects-images/devcripto.png",
+            "description":"The app allows you to check the profts and losses of crypto coins in real time and, see the details of each crypt and also look for a especific coin",
+            "tools":"React/TypeScript/CSS modules",
+            "urlDeploy":"https://findyourcripto.netlify.app/" ,
+            "urlCode": "https://github.com/VitorTorquato/cripto-Currency"
+        }
+    ]
+}
